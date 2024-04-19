@@ -91,7 +91,7 @@ class UI {
         </div>
        
         <p>
-          ${item.description}
+          ${item.description}Pcs
         </p>
       
        
